@@ -1,0 +1,123 @@
+.selector {
+  width: 1117px;
+  height: 141px;
+  flex-shrink: 0;
+  color: #000;
+
+  /* www.grindbbq.com */
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+
+  color: #000;
+
+  /* About Us */
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+
+  color: #000;
+
+  /* Menut */
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+  color: #000;
+
+  /* Why Memphis BBQ */
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+*/About Us*/ {
+  align-self: stretch;
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.28px;
+}
+
+.selector-2 {
+  width: 780px;
+  height: 479px;
+  flex-shrink: 0;
+  aspect-ratio: 780/479;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  color: #000;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 30px */
+}
+.selector-3 {
+  width: 316px;
+  height: 270px;
+  flex-shrink: 0;
+  aspect-ratio: 158/135;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+.selector-4 {
+  width: 354px;
+  height: 270px;
+  flex-shrink: 0;
+  aspect-ratio: 59/45;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+.selector-5 {
+  width: 750.783px;
+  height: 270px;
+  flex-shrink: 0;
+  color: #000;
+
+  /* Body text */
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 30px */
+}
+
+.selector-5::after {
+  content: "Excepteur efficient emerging, minim veniam anim cloying aute carefully curated gauche. Espresso exquisite perfect nostrud nisi intricate. Punctual adipisicing Borzoi, essential lovely tempor eiusmod irure. Exclusive izakaya charming Quezon City impeccable aute quality of life soft power pariatur occaecat discerning. Qui wardrobe aliquip, et Amadeus rock opera.\n\nExquisite sophisticated iconic cutting-edge laborum deserunt esse bureaux cupidatat id minim. Sharp classic the best commodo nostrud delightful. Conversation aute wifey id. Qui sunt remarkable deserunt intricate airport excepteur classic esse riot girl.";
+}
+.selector-6 {
+  width: 100%;
+  height: auto;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.selector-7 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.selector-8 {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}

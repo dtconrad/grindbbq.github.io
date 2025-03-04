@@ -1,0 +1,100 @@
+.container {
+  width: 1199px;
+  height: 141px;
+  border: 1px solid #000;
+  background: #fff;
+  color: #000;
+}
+
+/* www.grindbbq.com*/
+.body-text {
+  body {
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%; /* 30px */
+  }
+  color: #000;
+}
+
+/* About Us */
+.about-us {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.about-us {
+  color: #000;
+}
+
+/* Menu */
+.menu {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+}
+
+.image-container {
+  width: 521.47px;
+  height: 293px;
+  aspect-ratio: 521.47/293;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+color: #000;
+
+/*Grind BBQ Menu
+Starters
+Smoked Wings – Dry-rubbed and slow-smoked, served with ranch or blue cheese.
+BBQ Nachos – Tortilla chips piled high with pulled pork, cheese sauce, jalapeños, and BBQ drizzle.
+Fried Pickles – Crispy dill pickles with a side of house-made dipping sauce.
+Signature BBQ Plates
+Memphis Dry-Rub Ribs – Half rack or full rack, seasoned to perfection with our signature dry rub.
+Wet Ribs – Smoked and slathered with our tangy house BBQ sauce.
+Pulled Pork Plate – Tender, slow-smoked pork shoulder served with two sides.
+Beef Brisket Plate – Sliced brisket smoked low and slow, served with two sides.
+BBQ Chicken Plate – Half chicken smoked and basted with our secret BBQ glaze.
+Build Your Own Plate
+Choose 1 Meat, 2 Sides, and 1 Sauce:
+Meats: Pulled Pork, Brisket, Smoked Sausage, BBQ Chicken, or Ribs (add $3 for ribs).
+Sides: Coleslaw, Mac & Cheese, Baked Beans, Potato Salad, Collard Greens, or Cornbread.
+Sauces: Memphis Tangy, Sweet Heat, Spicy Mustard, or Carolina Vinegar.
+Sandwiches
+Pulled Pork Sandwich – Piled high with pulled pork, topped with coleslaw, and served on a brioche bun.
+Brisket Sandwich – Sliced brisket with pickles and onions on Texas toast.
+BBQ Chicken Sandwich – Smoked chicken breast with lettuce, tomato, and BBQ mayo.
+Sides (A la Carte)
+Coleslaw
+Mac & Cheese
+Baked Beans
+Potato Salad
+Collard Greens
+Cornbread
+Desserts
+Banana Pudding – Layers of creamy pudding, fresh bananas, and vanilla wafers.
+Pecan Pie – A Southern classic with a rich, gooey filling and flaky crust.
+Chocolate BBQ Brownie – A rich brownie with a hint of smoky chocolate flavor.
+Drinks
+Sweet Tea
+Unsweetened Tea
+Lemonade
+Fountain Sodas
+Local Craft Beers
+House Cocktails
+Specials
+Memphis Platter – A little bit of everything: ribs (dry or wet), pulled pork, brisket, and three sides. Perfect for sharing!
+BBQ Feast for Two – 2 meats, 4 sides, and 2 desserts.
+Catering Available!
+Let Grind BBQ bring the flavor to your next event. Ask your server or visit our website for details.
+ */
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 30px */

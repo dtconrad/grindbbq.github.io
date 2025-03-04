@@ -1,0 +1,165 @@
+.selector {
+  width: 1273px;
+  height: 141px;
+  flex-shrink: 0;
+  border: 1px solid #000;
+  background: #fff;
+  color: #000;
+}
+
+/*www.grindbbq.com */
+.selector {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+  color: #000;
+}
+
+/*About Us*/
+.selector {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+  color: #000;
+}
+
+/*Menu*/
+.selector {
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 30px */
+  color: #000;
+}
+
+.selector {
+  align-self: stretch;
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.28px;
+}
+/*Grind BBQ*/
+.selector {
+  align-self: stretch;
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -1.28px;
+}
+/*Where the smoke is thick, the sauce is slick, and the ribs are worth the trip!"*/
+.selector-quote {
+  align-self: stretch;
+  color: rgba(0, 0, 0, 0.75);
+  font-family: "JetBrains Mono";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 36px */
+}
+.selector-image {
+  width: 873px;
+  height: 873px;
+  flex-shrink: 0;
+  aspect-ratio: 1/1;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+
+/*Specialties*/
+.selector-specialties {
+  width: 624px;
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -0.96px;
+}
+/* Image Slider */
+.slider {
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.slider-images {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slider-image {
+  min-width: 100%;
+  height: auto;
+}
+/*Come Visit Us:
+8329 Smokey Trail Way
+Memphs, TN 38118
+(901) 123-4567*/
+.selector-visit {
+  width: 599px;
+  height: 121px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 72px */
+}
+
+.selector-visit-small {
+  color: #000;
+  font-family: "JetBrains Mono";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+}
+.selector-image-large {
+  width: 1122px;
+  height: 759px;
+  flex-shrink: 0;
+  aspect-ratio: 34/23;
+  background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+}
+/*Reviews*?{
+width: 625px;
+color: #000;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: -0.96px;
+}
+/*"The best BBQ I've ever had! The ribs are to die for!"*/
+.selector-quote {
+  color: rgba(0, 0, 0, 0.75);
+  font-family: "JetBrains Mono";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 36px */
+}
+/*"Well Worth Every Penny!"*/
+.selector-quote {
+  color: rgba(0, 0, 0, 0.75);
+  font-family: "JetBrains Mono";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 36px */
+}
